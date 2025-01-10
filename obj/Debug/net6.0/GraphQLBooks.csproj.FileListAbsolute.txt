@@ -62,3 +62,5 @@ D:\Learning JS\GraphQlLearn\obj\Debug\net6.0\refint\GraphQLBooks.dll
 D:\Learning JS\GraphQlLearn\obj\Debug\net6.0\GraphQLBooks.pdb
 D:\Learning JS\GraphQlLearn\obj\Debug\net6.0\GraphQLBooks.genruntimeconfig.cache
 D:\Learning JS\GraphQlLearn\obj\Debug\net6.0\ref\GraphQLBooks.dll
+D:\Learning JS\GraphQlLearn\obj\Debug\net6.0\GraphQLBooks.sourcelink.json
+D:\Learning JS\GraphQlLearn\bin\Debug\net6.0\Database\magazines.json

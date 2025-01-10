@@ -2,16 +2,34 @@
     {
         "bookId": 17,
         "name": "Harry Potter",
-        "pages": 267
+        "pages": 267,
+        "genre": "Fantasy",
+        "author": {
+            "authorId": 105,
+            "name": "J.K. Rowling"
+        }
     },
     {
         "bookId": 54,
         "name": "Memory Man",
-        "pages": 560
+        "pages": 560,
+        "reviews": [
+            {
+                "reviewId": 56,
+                "rating": 5,
+                "description": "A real deal book",
+                "user":"Mesut"
+            }
+        ]
     },
     {
         "bookId": 66,
-        "name" : "Exhalation",
-        "pages" : 368
+        "name": "Exhalation",
+        "pages": 368
+    },
+    {
+        "bookId": 44,
+        "name": "The wolf",
+        "pages": 217
     }
 ]
